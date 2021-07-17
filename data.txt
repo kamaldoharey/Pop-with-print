@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="btnpop()">Click Me</button>
+    <table>
+        <tr>
+            <td>Sr No.</td>
+            <td>Student Name</td>
+            <td>Form No.</td>
+            <td>Date</td>
+            <td>Class</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Manish</td>
+            <td>ENQ/002</td>
+            <td>16-06-2021</td>
+            <td>Nursery</td>
+        </tr>
+
+    </table>
+</body>
+<script>
+    function btnpop() {
+
+    }
+</script>
+
+</html>
+
+
+
+
+
+// function dtprint() {
+    // var originalContents = document.body.innerHTML;
+    // var i = document.getElementById('tab1').innerHTML;
+    // document.body.innerHTML = i;
+    // window.print();
+    // document.body.innerHTML = originalContents;
+    // }
